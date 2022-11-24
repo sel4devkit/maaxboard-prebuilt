@@ -1,6 +1,10 @@
 # maaxboard-prebuilt
 This repository contains prebuilt images for running seL4 on the Avnet MaaXBoard.
 
+## Licence
+This work is © Crown Copyright NCSC, released under a 2-Clause BSD licence.
+
+
 ## disk_images
 This folder contains two zipped disk images, either of which can be written to an SD card (16GB or larger):
   - `maaxboard-uboot.img.zip` - Contains U-Boot, a BOOT partition for storing seL4 applications, and a FILESYSTEM partition.
